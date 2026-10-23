@@ -7,7 +7,7 @@ import { BatGlyph, Cobweb, HalloweenParticles, HangingSpider, PumpkinGlyph, Sect
 
 // Edita únicamente estos datos para personalizar tu invitación.
 const invitationData = {
-  parents: 'Cecilia & Jaime',
+  parents: 'Ceci & Jaime',
   date: 'Sábado 14 de noviembre',
   time: '2:00 de la tarde',
   place: 'Mar Báltico 205, Sta María del Grañeno, León',
