@@ -9,8 +9,8 @@ import { BatGlyph, Cobweb, HalloweenParticles, HangingSpider, PumpkinGlyph, Sect
 const invitationData = {
   parents: 'Ceci & Jaime',
   date: 'Sábado 14 de noviembre',
-  time: '2:00 de la tarde',
-  place: 'Mar Báltico 205, Sta María del Grañeno, León',
+  time: '3:00 de la tarde',
+  place: 'Mar Báltico 205, Sta María del Granjeno, León',
   mapUrl: 'https://maps.app.goo.gl/4tAS2dVTC2xpvztGA',
   registryUrl: 'https://www.amazon.com.mx/baby-reg/jaime-bocanegra-diciembre-2026-leondelosaldama/3QMBGKJKKWTW4',
   whatsapp: '524774648955',
